@@ -1,6 +1,6 @@
-[submodule "ece594/project/transformers"]
-	path = ece594/project/transformers
+[submodule "transformers"]
+	path = transformers
 	url = https://github.com/huggingface/transformers
-[submodule "ece594/project/allennlp"]
-	path = ece594/project/allennlp
+[submodule "allennlp"]
+	path = allennlp
 	url = https://github.com/allenai/allennlp.git
